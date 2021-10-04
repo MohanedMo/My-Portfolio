@@ -17,7 +17,10 @@ body{
 @media (min-width: 769px) {
     .container{
         width: 750px;
-    } 
+    }
+    body{
+        font-family: normal;
+    }
 }
 @media (min-width: 992px) {
     .container{
