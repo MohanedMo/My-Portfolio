@@ -18,6 +18,8 @@ body{
     .container{
         width: 750px;
     }
+}
+@media (max-width: 769px) {
     body{
         font-family: normal;
     }
